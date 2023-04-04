@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2be8b5c2-515d-42ff-a0e5-226e6b1f9506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CourseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CourseCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CourseMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CoursePublish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CoursePublishPre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/CourseTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/Teachplan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-content/education-content-model/src/main/java/com/education/content/model/po/TeachplanMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../onlineEducation/education-media/education-media-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../preject1/project1/src/SocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/FileContentIndex/75bd1775-78d9-4103-9ffd-61c2da346a1a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/FileContentIndex/8c9ad0c0-fed0-4f7b-a3e9-20cbb23bb130.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/FileContentIndex/ad5c532b-c0e7-4bf7-883d-0d57e6691aa7.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/FileContentIndex/d2c822ad-6cb8-4db2-8b4c-4c7d5ac8e15a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/ipch/AutoPCH/7b4d4937985a52c8/源3.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/Project1/.vs/Project1/v17/ipch/AutoPCH/7b4d4937985a52c8/源3.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/x64/Debug/ii.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/Project1/x64/Debug/ii.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/Project1/x64/Debug/ii.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/Project1/x64/Debug/ii.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/x64/Debug/ii.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/x64/Debug/ii.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/x64/Debug/ii.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/x64/Debug/ii.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/x64/Debug/源3.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/x64/Debug/源3.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../c/ii/源3.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../c/ii/源3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../onlineEducation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../onlineEducation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../onlineEducation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../onlineEducation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../onlineEducation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../onlineEducation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../onlineEducation/education-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../onlineEducation/education-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../onlineEducation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../onlineEducation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../preject1/project1/out/production/project1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../preject1/project1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vscoed/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vscoed/sdk.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NuNcUGFTep1SJuzNvLVeNJQkSZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be8b5c2-515d-42ff-a0e5-226e6b1f9506" name="Changes" comment="" />
+      <created>1680510086944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680510086944</updated>
+      <workItem from="1680510090444" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
